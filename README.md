@@ -1,2 +1,2 @@
 # ReactJS-IOS-calculator
-## Will be ubdating soon
+## Will be updating soon
